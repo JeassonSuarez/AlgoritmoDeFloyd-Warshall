@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(122, 140, 236);
+}
+
+#contenedor{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cont_controles{
+    width: fit-content;
+    min-width: 90%;
+    text-align: center;
+    background-color:beige;
+    border-radius: 15px;
+}
+
+canvas{
+    width:100%;
+    background-color:beige;
+    border-radius:15px;
+}
+
+#nodoCont{
+    margin: auto;
+    text-align: center;
+    width: 45px;
+    background-color: aqua;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    height:fit-content;
+}
+
+input{
+    width: 45px;
+    margin: auto;
+    color: #ff0000;
+}
+
+.mRecoridos,.exc{
+    background-color:beige;
+    width: 45%;
+    text-align: center;
+    margin-top: 15px;
+    height: fit-content;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+p{
+    display: block;
+    width: 80%;
+    border: 1px solid red;
+    margin: auto;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    height:fit-content;
+}
+
+#graf{
+    width:fit-content;
+    text-align: center;
+}
+
+#floyd{
+    margin: 25px;
+    cursor: pointer;
+    width: 100%;
+    height: 50px;
+    border: none;
+    background-color:rgb(165, 185, 185);
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#gen_matAdy{
+    margin: 25px;
+    cursor: pointer;
+    width: 100%;
+    height: 50px;
+    border: none;
+    background-color:rgb(165, 185, 185);
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.valor {
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    height:fit-content;
+
+}
