@@ -1,4 +1,4 @@
-# Reto propuesto por el programa ONE de Oracle
+# Algoritmo de Floyd-Warshall
 ![Imagen del proyecto](https://github.com/JeassonSuarez/AlgoritmoDeFloyd-Warshall/blob/main/imagenes/grafo%20pintado.png?raw=true)
 
 ## Ejemplo en vivo
