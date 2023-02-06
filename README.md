@@ -1,4 +1,4 @@
-# Algoritmo de Floyd-Warshall
+# Reto propuesto por el programa ONE de Oracle
 ![Imagen del proyecto](https://github.com/JeassonSuarez/AlgoritmoDeFloyd-Warshall/blob/main/imagenes/grafo%20pintado.png?raw=true)
 
 ## Ejemplo en vivo
@@ -22,10 +22,10 @@ Con este proyecto aprendi a utilizar un poco la API canvas de HTML, con la cual 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/Portada.png?raw=true)
-![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/desencriptado.png?raw=true)
-![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/encriptado.png?raw=true)
-![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/mobile.png?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/AlgoritmoDeFloyd-Warshall/blob/main/imagenes/grafo%20pintado.png?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/AlgoritmoDeFloyd-Warshall/blob/main/imagenes/adyacencia.png?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/AlgoritmoDeFloyd-Warshall/blob/main/imagenes/pivotes.png?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/AlgoritmoDeFloyd-Warshall/blob/main/imagenes/recorridos-excenticidad.png?raw=true)
 
 ## Autor ✒️
 **Jeasson Alfonso Suárez Sánchez**
